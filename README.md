@@ -2,9 +2,7 @@ Click below to open the website
 
 https://amit8585.github.io/tourism-website/
 
-Here's a detailed description for the README file of your GitHub project:
 
----
 
 # Adventure
 
