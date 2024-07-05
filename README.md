@@ -29,36 +29,5 @@ Adventure aims to inspire and assist travelers in making the most of their trave
 
 At Adventure, our mission is to bring the world's wonders closer to you and help you make the most of your travel experiences. We believe that every journey is an opportunity to learn, grow, and connect with people and places around the globe. Our goal is to inspire curiosity, foster connections, and provide valuable insights to enrich your travels.
 
-## Getting Started
 
-To view and explore the Adventure website locally, follow these steps:
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/adventure.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd adventure
-    ```
-
-3. **Open `index.html` in your browser**:
-    Simply double-click the `index.html` file or open it with your preferred web browser.
-
-## Contributing
-
-We welcome contributions to enhance Adventure. If you have suggestions for new features or improvements, feel free to fork the repository and create a pull request. Your contributions are greatly appreciated!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Special thanks to all travelers and adventurers who continue to inspire us with their stories and experiences.
-- Thanks to the open-source community for providing valuable resources and tools.
-
----
-
-Feel free to customize this description further to fit your project's specific details and needs.
